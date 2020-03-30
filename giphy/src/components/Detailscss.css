@@ -1,0 +1,15 @@
+.DetailsSection {
+    display: flex ;
+    flex-wrap: wrap;
+    flex-direction: column; 
+    align-items: center;
+}
+.DetailsSection h1{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: fantasy;
+}
+
+
+
+

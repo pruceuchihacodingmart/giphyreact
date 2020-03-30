@@ -1,0 +1,30 @@
+.FavSec {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.Xmark {
+  color: chartreuse;
+  text-align: center;
+  margin-left: auto;
+  background-color: black;
+  margin-top: -21px;
+  margin-right: auto;
+  width: 25px;
+  height: 22px;
+  border-radius: 18%;
+  right: -16px;
+  cursor: pointer;
+}
+
+.FaSvSec img {
+  vertical-align: middle;
+  border-style: none;
+  width: auto;
+  height: 100px;
+}
+
+.none {
+  display: none;
+}
